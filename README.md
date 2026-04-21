@@ -18,7 +18,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا نور العين تعالي هنا
+> في دفء الليل يذوب العنا
+> أنفاسك تسري في دمي
+> وأنت السكينة في عالمي
 > ...
 
 📄 **[View Full Lyrics →](./lyrics.txt)**
