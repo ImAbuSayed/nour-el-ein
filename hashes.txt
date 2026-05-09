@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Nour El Ein
+
+This log tracks the cryptographic history and versioning for the song **Nour El Ein** (nour-el-ein).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T13:30:41.209704 | `v1` | `715ae910d5d86d681c280c510b238ae85c8a009fbca3bff684e46c27de98596d` | `0e0471a1b1ccb5c213a40638f2369081033d3ce9c1410819be01ce32bcbee95f` | `2026-05-09_nour-el-ein-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
